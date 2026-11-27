@@ -1,1 +1,2 @@
-- L0→1: cat readme
+- L0 -> 1: cat readme
+- L1 -> 2: cat ./-
