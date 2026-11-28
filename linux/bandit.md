@@ -8,4 +8,5 @@
 - L7 -> 8: grep "millionth" data.txt
 - L8 -> 9: sort data.txt | uniq -u
 - L9 -> 10: strings data.txt | grep "=="
+- L10 -> 11: base64 -d data.txt
 

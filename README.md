@@ -7,7 +7,7 @@ learning sticks.
 ## Progress
 
 - [x] OverTheWire Bandit 0-5
-- [ ] OverTheWire Bandit 6-10
+- [x] OverTheWire Bandit 6-10
 - [ ] PortSwigger: SQL injection
 - [ ] PortSwigger: XSS
 - [ ] Juice Shop (local lab)
