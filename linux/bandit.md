@@ -6,4 +6,5 @@
 - L5 -> 6: find inhere -type f -size 1033c ! -executable -exec file {} + && cat inhere/maybehere07/.file2
 - L6 -> 7: find / -user bandit7 -group bandit6 -size 33c 2>/dev/null && cat /var/lib/dpkg/info/bandit7.password
 - L7 -> 8: grep "millionth" data.txt
+- L8 -> 9: sort data.txt | uniq -u
 
